@@ -1,0 +1,4 @@
+Meyers   Jan  1180.5 Apr 3005.6 Oct 2378.0 Dec 22015.8
+Sharma   Feb 2370 May 14500.0 Sept 12500.0
+Philips  Mar 7888.5 May 8359.0 Aug 9343.0 Oct 6178.5
+Simmons  Mar 9534.0	Jun 12355.0	July 14085  Aug 7657.0 Sept 2018.5
